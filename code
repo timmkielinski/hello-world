@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void)
+{
+	printf("Guten Abend!\n");
+	return 0;
+}
